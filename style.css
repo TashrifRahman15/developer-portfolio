@@ -59,6 +59,23 @@ span {
     margin-left: 5%;
     margin-right: 5%;
     padding-left: 2%;
-    border-radius: 3%;
+    border-radius: 2%;
     padding-bottom: 2%;
+
+}
+
+#exp-full-stack {
+    border-image: linear-gradient(red, orange);
+    border-image-slice: 1;
+    border-left: 6px solid;
+}
+
+#exp-web {
+    border-image: linear-gradient(rgb(12, 28, 203), rgb(40, 171, 219));
+    border-image-slice: 1;
+    border-left: 6px solid;
+}
+
+footer p {
+    text-align: center;
 }
